@@ -1,1 +1,0 @@
-SELECT * FROM views.produtos;
